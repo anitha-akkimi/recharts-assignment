@@ -8,3 +8,14 @@
 .grap {
   margin-right: 10px;
 }
+.container {
+  height: 60vh;
+  padding: 15px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.heading {
+  text-align: center;
+}
